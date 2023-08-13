@@ -58,4 +58,4 @@ takes your DOM manipulation callback.
 
 ## License
 
-MIT @ [Emanuel Kluge](https://twitter.com/Herschel_R)
+MIT @ [Emanuel Kluge](https://mastodon.social/@herschel_r)
